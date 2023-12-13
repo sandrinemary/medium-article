@@ -23,7 +23,7 @@ a {
   background-image: url("https://pbs.twimg.com/media/E0UbgxzXoAc8B-T.jpg");
   background-size: cover;
   color: white;
-  padding: 120px 0;
+  padding: 60px 0;
 }
 .banner h1 {
   font-size: 38px;
@@ -46,7 +46,7 @@ a {
   font-style: italic;
 }
 .link-medium:hover {
-  background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));}
+  background-image: linear-gradient(to bottom, rgb(178, 226, 226), rgb(107, 194, 245));}
 }
 
 @media(max-width: 900px) {
